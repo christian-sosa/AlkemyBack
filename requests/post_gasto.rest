@@ -1,0 +1,9 @@
+POST http://localhost:3001/api
+Content-Type: application/json
+
+{
+   "type": "Entry",
+   "amount": 500,
+   "user": "Christian",
+   "concept": "Gasto por cumpleaños"
+}

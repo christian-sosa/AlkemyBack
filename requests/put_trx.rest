@@ -1,0 +1,8 @@
+PUT http://localhost:3001/api/modify/605373fb64ce3f39302fa773
+Content-Type: application/json
+
+{
+   "type": "Gasto",
+   "amount": 500,
+   "user": "Christian"
+}
